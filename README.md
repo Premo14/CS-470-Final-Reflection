@@ -11,7 +11,7 @@
 ![Key Takeaways](key_takeaways.png)
 ![Conclusions](conclusions.png)
 
-## **Transcripts:**
+## **Transcript:**
 ![Transcript Page One](transcript_page_one.png)
 ![Transcript Page Two](transcript_page_two.png)
 ![Transcript Page Three](transcript_page_three.png)
