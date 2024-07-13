@@ -6,7 +6,7 @@
 ![The Serverless Cloud](serverless_cloud.png)
 ![Serverless API with AWS Lambda​](serverless_api_aws_lambda.png)
 ![Data Models: MongoDB vs. DynamoDB​](data_models_mongodb_dynamodb.png)
-![Cloud-Based Development Principles​](cloud_based_development.png)
+![Cloud-Based Development Principles​](cloud_based_development_principles.png)
 ![Securing Your Cloud Application](securing_cloud_application.png)
 ![Key Takeaways](key_takeaways.png)
 ![Conclusions](conclusions.png)
